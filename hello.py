@@ -8,7 +8,7 @@ def hello_world(name: str = "world", goodbye: bool = True):
     if goodbye:
         print(f"Goodbye {name}!")
 
-print(hello_world())
+# print(hello_world())
 
 # if __name__ == "__main__":
 #     hello_world()
